@@ -24,6 +24,7 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    margin-left: 10px;
     font-size: 30px;
 }
 .todo-list h2 img {
